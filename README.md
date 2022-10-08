@@ -17,6 +17,7 @@ MK      : Sains Data
 
     ![image](https://user-images.githubusercontent.com/105399054/194693787-79d8a3f2-27d4-4f88-968c-9d649b240a96.png)
   
-  Dan pililah sesuai dengan operating system lalu start download
+   Dan pililah sesuai dengan operating system lalu start download
   
-    ![image](https://user-images.githubusercontent.com/105399054/194693843-e04de416-01a5-4601-85b5-0baf9bc02e5f.png)
+    ![image](https://user-images.githubusercontent.com/105399054/194693957-c9943f6f-7861-4afc-adbb-791feec5ce88.png)
+ 
