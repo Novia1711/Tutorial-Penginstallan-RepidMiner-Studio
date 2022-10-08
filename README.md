@@ -4,7 +4,7 @@ Nama    : Novia Riska Aulia
 NIM     : 19.01.013.080
 MK      : Sains Data
 ```
-# Download apk RepidMiner Studio
+# Download apk RapidMiner Studio
 1. Buka situs https://rapidminer.com/ di browser web
 
     ![image](https://user-images.githubusercontent.com/105399054/194693631-c42549bd-b34b-4c08-89e4-d3f10c9f42e9.png)
