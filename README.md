@@ -11,7 +11,7 @@ MK      : Sains Data
   
 2. Lalu pilih account untuk melakukan Sign in bagi yang sudah memiliki account, kalo belum ada silahkan melakukan registrasi terlebih dahulu
 
-    ![2022-10-07 (3)](https://user-images.githubusercontent.com/105399054/194694011-2e7aa3a2-6f45-47dd-912c-07388d6ea5da.png)
+    ![2022-10-07 (3)](https://user-images.githubusercontent.com/105399054/194694122-8cb1b93f-9d87-415d-a15e-1f02023fb508.jpg)
 
 3. Lalu pilih download
 
